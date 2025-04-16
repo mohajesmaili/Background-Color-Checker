@@ -1,4 +1,4 @@
-# 🖼 Background Color Checker API
+# Background Color Checker API
 
 This project is a simple **FastAPI**-based service that checks whether the background of an **Image or PDF** is colored or not.
 
@@ -13,7 +13,7 @@ This project is a simple **FastAPI**-based service that checks whether the backg
 
 ---
 
-## ⚙ Requirements:
+## Requirements:
 
 - Python 3.8 or higher
 - Install dependencies:
